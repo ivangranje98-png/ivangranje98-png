@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 - 💻 Desarrollo sistemas web con PHP y bases de datos
 - 🌱 Actualmente aprendiendo: Estudiante de Análisis en Sistemas
-- 📄 [Currículo](./Currículo_Ivan_Granje.pdf)
+- 📄 [Currículo](./Curriculo_Ivan_Granje.pdf)
 - 📫 Contacto: ivan.granje98@gmail.com
 
 ## 🛠️ Tecnologías
